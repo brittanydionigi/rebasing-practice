@@ -10,3 +10,4 @@ console.log('set');
 console.log('amet');
 console.log('foo');
 console.log('bar');
+console.log('baz');

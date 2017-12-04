@@ -1,3 +1,5 @@
 # Rebasing Practice
 
-Add a descrition paragarph under title.
+Add a description paragraph under title.
+
+# Add a Second Heading - Foo Bar

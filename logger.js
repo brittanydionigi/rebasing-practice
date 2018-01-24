@@ -13,3 +13,6 @@ console.log('breakfast burritos');
 console.log('hey');
 console.log('hello');
 console.log('howdy');
+console.log('hi (master)');
+console.log('howdy (master)');
+console.log('last(master)');
